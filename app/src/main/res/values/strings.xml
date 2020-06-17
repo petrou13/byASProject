@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FrameAnimation</string>
+    <string name="txtTween">Анимация преобразования</string>
+    <string name="txtFrame">Покадровая анимация</string>
+    <string name="txtTweenStart">Анимация преобразования</string>
+</resources>
